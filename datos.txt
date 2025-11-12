@@ -1,3 +1,0 @@
-nombre	apellido	edad
-Brian	Caceres	18
-Ana	Perez	25
