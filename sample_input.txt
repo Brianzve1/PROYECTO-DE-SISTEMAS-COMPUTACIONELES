@@ -1,0 +1,4 @@
+Nombre	Edad	Ciudad
+Ana	30	Córdoba
+Juan	25	Mendoza
+María	28	Buenos Aires
